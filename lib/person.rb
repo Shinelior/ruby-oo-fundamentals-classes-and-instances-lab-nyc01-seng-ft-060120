@@ -19,4 +19,4 @@ adele_goldberg.name
 alan_kay = Person.new("alan_kay")
 
 
-lan_kay.name
+alan_kay.name
