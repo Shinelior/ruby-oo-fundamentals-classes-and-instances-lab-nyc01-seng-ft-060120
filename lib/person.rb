@@ -16,7 +16,7 @@ end
 adele_goldberg = Person.new("adele_goldberg")
 adele_goldberg.name
 
-lan_kay = Person.new("alan_kay")
+alan_kay = Person.new("alan_kay")
 
 
 lan_kay.name
